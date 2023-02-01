@@ -1,0 +1,9 @@
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\bin\Debug\WordGame.exe.config
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\bin\Debug\WordGame.exe
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\bin\Debug\WordGame.pdb
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\obj\Debug\WordGame.csprojResolveAssemblyReference.cache
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\obj\Debug\WordGame.Form1.resources
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\obj\Debug\WordGame.Properties.Resources.resources
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\obj\Debug\WordGame.csproj.GenerateResource.Cache
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\obj\Debug\WordGame.exe
+C:\Users\ES1-311\Documents\Visual Studio 2013\Projects\WordGame\WordGame\obj\Debug\WordGame.pdb
